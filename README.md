@@ -1,0 +1,1 @@
+Notebooks and code used to produce the analysis of "A new bump in the night: evidence of a new feature in the binary black hole mass distribution at 70 M⊙ from gravitational-wave observations" of arXiv:2407.02460. This is a minimal release, for all relevant code and data please go to our Zenodo repository (https://zenodo.org/records/14957566). 
